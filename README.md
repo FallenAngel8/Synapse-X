@@ -1,0 +1,14 @@
+# Unleaked-Synapse-Crack
+Hello! This crack was made by Vox#0001 
+
+Please do not share this crack to everyone you know, let this crack exist for a bit.
+If you have any questions regarding this crack you can contact my discord.
+
+(Synapse X, the scripting utility, is safe to use. Windows Defender may flag it due to the way it is encrypted/obfuscated. It uses a similar obfuscation to that of a Bitcoin miner which is why it is detected as such.)
+
+If you're having trouble believing that:
+
+- https://www.reddit.com/r/SynapseX/comments/m97n17/is_synapse_x_a_virus_answer_truthfully/
+- https://howtofix.guide/synapse-x-exe-file/
+
+
