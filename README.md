@@ -1,4 +1,4 @@
-# Unleaked-Synapse-Crack
+# Unleaked-Synapse-Version
 Hello! This crack was made by Vox#0001 
 
 Please do not share this crack to everyone you know, let this crack exist for a bit.
