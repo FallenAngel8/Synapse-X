@@ -1,8 +1,8 @@
 # Unleaked-Synapse-Version
-Hello! This crack was made by Vox#0001 
+Hello! This Version was made by Vox#0001 
 
-Please do not share this crack to everyone you know, let this crack exist for a bit.
-If you have any questions regarding this crack you can contact my discord.
+Please do not share this Version to everyone you know, let this Version exist for a bit.
+If you have any questions regarding this Version you can contact my discord.
 
 (Synapse X, the scripting utility, is safe to use. Windows Defender may flag it due to the way it is encrypted/obfuscated. It uses a similar obfuscation to that of a Bitcoin miner which is why it is detected as such.)
 
